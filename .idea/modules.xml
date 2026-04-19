@@ -5,6 +5,8 @@
       <module fileurl="file://$PROJECT_DIR$/problem-001/problem-001.iml" filepath="$PROJECT_DIR$/problem-001/problem-001.iml" />
       <module fileurl="file://$PROJECT_DIR$/problem-002/problem-002.iml" filepath="$PROJECT_DIR$/problem-002/problem-002.iml" />
       <module fileurl="file://$PROJECT_DIR$/problem-003/problem-003.iml" filepath="$PROJECT_DIR$/problem-003/problem-003.iml" />
+      <module fileurl="file://$PROJECT_DIR$/problem-004/problem-004.iml" filepath="$PROJECT_DIR$/problem-004/problem-004.iml" />
+      <module fileurl="file://$PROJECT_DIR$/problem-005/problem-005.iml" filepath="$PROJECT_DIR$/problem-005/problem-005.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/problem-solving.iml" filepath="$PROJECT_DIR$/.idea/problem-solving.iml" />
     </modules>
   </component>
